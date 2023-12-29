@@ -1,6 +1,6 @@
 ![image](https://github.com/forza-dc/AWS-Main-Project/assets/37484962/3351fb4f-13ce-4077-b80b-fa955c4736d6)
 
-# Project-503 : Blog Page Application (Django) deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service(RDS), VPC's Components, Lambda, DynamoDB and Cloudfront with Route 53
+# Blog Page Application (Django) deployed on AWS Application Load Balancer with Auto Scaling, S3, Relational Database Service(RDS), VPC's Components, Lambda, DynamoDB and Cloudfront with Route 53
 
 ## Description
 
