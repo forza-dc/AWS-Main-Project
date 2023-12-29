@@ -253,14 +253,14 @@ clarusway_blog_proj (folder)
 
 - Step 4: Create two S3 Buckets and set one of these as static website.
 
-- Step 5: Download or clone project definition from `Clarusway` repo on Github 
+- Step 5: Download or clone project definition from `Forza-DC` repo on Github 
 
 - Step 6: Prepare your Github repository 
 
 - Step 7: Prepare a userdata to be utilized in Launch Template
 
-- Step 8: Write RDS, S3 in settings file given by Clarusway Fullstack Developer team  
-
+- Step 8: Write RDS, S3 in settings file
+  
 - Step 9: Create NAT Instance in Public Subnet
 
 - Step 10: Create Launch Template and IAM role for it
